@@ -3,7 +3,7 @@
 #
 #Terminal takes filename as the only command line input
 #
-#- terminal command input
+#- Terminal command input
 #	$ python <path to code> <path to csv file> 
 #	e.g python feed.py filename.csv
 #####################################################################
